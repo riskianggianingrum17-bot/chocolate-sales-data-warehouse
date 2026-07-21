@@ -90,6 +90,12 @@ Some examples of insights generated from this project:
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Chocolate Sales Dataset (2023–2024)** from Kaggle.
+
+**Source:** https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales
+
 ## 👩‍💻 Author
 
 **Riski Anggianingrum**
