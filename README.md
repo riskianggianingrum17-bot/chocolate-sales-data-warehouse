@@ -64,16 +64,6 @@ chocolate-sales-data-warehouse/
 
 ---
 
-## 📊 Dashboard
-
-The dashboard provides insights into:
-
-- Sales Performance
-- Product Category Analysis
-- Customer Demographics
-- Store Performance
-- Revenue Trend
-
 ## 📊 Interactive Tableau Dashboard
 
 This project includes an interactive Tableau dashboard built on the Chocolate Sales Data Warehouse. The dashboard provides insights into sales performance, customer demographics, product categories, store performance, and revenue trends for the 2023–2024 period.
