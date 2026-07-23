@@ -74,7 +74,26 @@ The dashboard provides insights into:
 - Store Performance
 - Revenue Trend
 
-*(Dashboard screenshots will be added in the `images` folder.)*
+## 📊 Interactive Tableau Dashboard
+
+This project includes an interactive Tableau dashboard built on the Chocolate Sales Data Warehouse. The dashboard provides insights into sales performance, customer demographics, product categories, store performance, and revenue trends for the 2023–2024 period.
+
+### Dashboard Highlights
+- Revenue, Profit, and Quantity KPIs
+- Monthly Sales Trend
+- Product Category Analysis
+- Cocoa Level Distribution
+- Brand Performance
+- Top Sales Cities
+- Top 10 Stores
+- Store Type Performance
+- Customer Gender Distribution
+- Customer Age Group Analysis
+
+🔗 **View Interactive Dashboard**  
+[https://public.tableau.com/views/ChocolateDashboard_17847807471610/Dashboard1](https://public.tableau.com/app/profile/riski.anggianingrum/viz/ChocolateDashboard_17847807471610/Dashboard1)
+
+> 💡 Click on the charts to interact with the dashboard and explore detailed insights.
 
 ---
 
